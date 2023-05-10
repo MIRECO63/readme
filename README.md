@@ -1,3 +1,3 @@
 # readme
-👋 Hi, I’m @The_mrc_ 
+👋 Hi, I’m @MIRECO63 
 🌱 I’m currently learning C, Java & Python.
